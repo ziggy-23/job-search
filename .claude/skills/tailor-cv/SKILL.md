@@ -14,6 +14,7 @@ The job of this skill is choosing the right ones, in the posting's language, wit
   questions to fill it before tailoring, one role at a time.
 
 ## Steps
+0. **Apply the canonical rules** at the top of `data/experience-bank.md` before anything else: SEA Expo wording and numbers, MA dates (2024-2026, or 2024-2027 only for Spanish internships needing a three-way agreement), never include Idiomes Manhattan or British Time outside language-teaching roles, database size (2,261 exact, 2,250+ on a CV), and never present the tools-guide example numbers as Ziggy's own.
 1. **Decode the posting.** List the 6-8 things this employer most wants (skills, outcomes, tools, traits).
    Separate must-haves from nice-to-haves. Note keywords to mirror (exact wording matters for ATS filters).
 2. **Match.** For each CV role, score every bank bullet against the list. Pick the best 4-5 (fewer for older roles).
