@@ -46,7 +46,8 @@ Used in CVs so far: "designed indicator and scoring methodologies", "converted f
 - Tools (confirmed by Ziggy): Stata and R for the data cleaning and processing, plus Excel for the scoring and risk workbooks.
 - Draft 3 of the report is a ~300-page technical report (about 120,000 words): climate hazard profile, exposure, vulnerability, risk, adaptation options, with a two-scenario risk matrix. (Seen in the attached draft.)
 - Phase 1 "hotspot longlist" workbook (attached): ranks 26 districts against three criteria (sectoral risk share, hazard exposure, population/infrastructure significance), live-linked formulas (about 460 across three criteria sheets), raw risk and district-info sheets feeding it. This is a prioritisation tool, useful as a "built a formula-driven prioritisation model" example. [ASK: did you build this workbook or contribute?]
-[ASK: which exact pieces are yours (which sectors' indicators, which report sections)? Roughly how many indicators in total? Did you join any field or local-team calls?]
+- Sectors Ziggy worked across (his words: "various sectors", including WASH and public health, all documented in the workbooks): the six sectors are water resources, WASH, public health, livelihoods and food security, education, infrastructure. On a CV write "across several sectors including WASH and public health" unless he confirms all six.
+[ASK (low priority): total indicator count; field or local-team calls joined.]
 
 ### B. UfM: 2030GreenerMed monitoring and the 100MPA / Mediterranean NAP-NDC-MPA analysis
 - Monitoring tool for Interreg NEXT MED projects starting in 2024 (file name starts with "HM"): indicator-by-indicator workbook with thematic axes
@@ -55,7 +56,8 @@ Used in CVs so far: "designed indicator and scoring methodologies", "converted f
   built from a source-document library per country plus country notes, with a slide deck on MPAs in NDCs/NAPs/national adaptation strategies.
 - COP31 side-event suggestions (Ziggy did this) and TSCC (Mediterranean coordination on the biodiversity framework) questionnaire analysis and joint work-plan input (Ziggy did this).
 - Also currently working on MedBESP and the Blue Economy platform work, and on GreenerMed / Interreg NEXT MED monitoring and evaluation of their projects (Ziggy's words).
-[ASK: what does the monitoring tool track (how many projects, how many indicators, who uses it)? How many countries exactly in the NAP analysis, and who used the result? What is MedBESP and what is your part?]
+- The Interreg NEXT MED monitoring tool was developed by GlobalCAD for the UfM as a deliverable tool; GlobalCAD and the UfM both use it. (Ziggy's file is the version for projects starting in 2024.)
+[ASK (low priority): number of projects and indicators tracked; countries in the NAP analysis and who used it; what MedBESP is and your part.]
 
 ### C. Tender screening and commercial pipeline (weekly go/no-go)
 - Appraise tenders from EU, UN agencies, development banks against technical, financial and eligibility criteria; 10-12 qualified opportunities per week; lead the weekly commercial meeting.
@@ -117,7 +119,7 @@ Department of Arab Affairs and National Security.
 
 ## Skills (honest levels, as stated by Ziggy)
 - Excel and Power BI: guide-level detail is in the reference section below; Ziggy to confirm which specific items he has actually done.
-- Python and SQL: used in jobs, learned through self-study and practice. [ASK: one concrete task for each, e.g. a query or script you ran at GlobalCAD, so it can be defended in an interview.]
+- Python and SQL: used in jobs, learned through self-study and practice. Ziggy says the concrete tasks are the ones in the tools guide below and are similar to what he has done. Use them as illustrative examples of the KIND of work (portfolio by country, budget vs spend, KPI dashboards, data checks); never attach the guide's example numbers, and phrase as "similar work such as ..." until he names a specific real task. In interviews he should be ready to talk through a real query or script.
 - Stata and R: confirmed for the Yemen CRVA data cleaning and indicator processing at GlobalCAD. Stata also used at the Lebanese Ministry (diaspora data). SPSS from study.
 - Generative AI, agentic workflows, automation (Playwright, APIs). [ASK: what you actually built]
 - Interests: running, chess, padel, cooking.
@@ -135,6 +137,7 @@ Useful framings from the guide, to use only where true:
 - SQL level: retrieve, join, filter, aggregate (SELECT, JOIN, GROUP BY, HAVING). Ziggy to confirm.
 - Data quality checking (spotting values that do not make sense, e.g. spend above budget, duplicates, wrong units) is real analyst work and matches the Yemen data-review work.
 Interview-ready examples (portfolio by country, budget vs spend, gender split, delayed projects, KPI dashboards, M&E targets) are in the original guide file Ziggy holds.
+Ziggy confirms these tasks are similar to work he has done, so they can be used as example scenarios when describing his Excel, Power BI, Python and SQL experience. Numbers in them stay illustrative.
 
 ## Interview stories (STAR) - to collect
 - A difficult client or stakeholder
