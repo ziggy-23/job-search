@@ -1,0 +1,81 @@
+# Ziggy's job-search settings. Edit this file to change what the search looks for.
+# Every search run reads this first.
+
+candidate:
+  name: Houssam "Ziggy" Mehfara
+  base: Barcelona
+  languages:
+    native: [Arabic, French, English]
+    professional: [Spanish]
+    intermediate: [Catalan, Danish]
+  education:
+    - Dual BA Political Science, AUB + Sciences Po Paris
+    - MA International Relations (IPE pathway), IBEI Barcelona
+  experience_summary: >
+    Junior Consultant at GlobalCAD (Apr-Nov 2026, climate/development consultancy);
+    League of Arab States (Cairo); Lebanese MFA (Beirut); client engagement/BD at
+    Saudi Entertainment and Amusement Expo (Riyadh); research journalism at BBC World Service;
+    English teaching. Strengths: international affairs, client-facing work, research and
+    analysis, multilingual, Excel/Power BI, MENA + Euro-Med networks.
+  # Status: internship at GlobalCAD ends Nov 2026, so start dates from Dec 2026 are ideal,
+  # but earlier is fine for the right role.
+
+# ---------------------------------------------------------------------------
+# What counts as a match
+# ---------------------------------------------------------------------------
+seniority:
+  max_years_required: 4        # accept roles asking up to 4 years
+  if_years_not_stated: include # no years mentioned -> keep it
+  exclude_title_words: [senior, sr, manager, head of, director, principal, lead, vp, chief]
+  # Exception: keep a senior/manager title only if the posting is clearly a stretch worth
+  # taking (e.g. small firm, "manager" used loosely, requirements match Ziggy closely).
+  # Flag these as "STRETCH" instead of silently keeping or dropping them.
+  prefer: [intern, trainee, graduate, junior, associate, analyst, assistant, coordinator, officer, consultant]
+
+degree_policy: >
+  Degree requirements are not a blocker (Ziggy has strong degrees anyway). Do not drop a role
+  because it lists a degree. Do NOT drop roles because Ziggy lacks a specific technical skill:
+  if he could credibly learn or fake-it-till-he-makes-it in 2-3 weeks, keep it and note the gap.
+
+# ---------------------------------------------------------------------------
+# Locations, in priority order (tier 1 = best). Score higher for lower tier numbers.
+# ---------------------------------------------------------------------------
+locations:
+  - {tier: 1, name: Barcelona (on-site or hybrid)}
+  - {tier: 2, name: Remote, doable from Barcelona (Spain or EU-remote)}
+  - {tier: 3, name: Madrid}
+  - {tier: 4, name: Elsewhere in Spain}
+  - {tier: 5, name: Paris}
+  - {tier: 6, name: Anywhere else in Europe (last resort)}
+
+# ---------------------------------------------------------------------------
+# Job families to hunt. Titles and target companies live in config/search-terms.md
+# ---------------------------------------------------------------------------
+families:
+  - consulting_strategy         # Simon-Kucher style: associate consultant, pricing, strategy
+  - economic_research_market_intel
+  - public_affairs_gov_affairs
+  - intl_orgs_think_tanks_policy
+  - corporate_strategy_bizops
+  - digital_transformation_implementation
+  - partnerships_ecosystem
+  - intl_business_trade_expansion
+  - sustainability_esg_climate
+  - tech_adjacent                # customer success, solutions, product ops, BI/business analyst
+  - sales_bd_b2b                 # SDR/BDR, account exec, BD - B2B/tech/services
+
+# Sales/BD roles are fine only when they're B2B, tech, services, or international.
+# Deprioritise: FMCG/on-trade, retail, call-centre "customer service", insurance cold-calling,
+# hospitality/food, anything commission-only.
+deprioritise_keywords: [call center, call centre, customer service, atención al cliente, on trade, ETT, cold calling, commission only, comisión, hostelería, fashion support, becario administrativo]
+
+# Language bonuses (roles that want these should score higher)
+language_bonus: [French, Arabic, Spanish, Catalan, Danish]
+
+# Paid work only. Unpaid or very low "prácticas" without pay are a soft no.
+# But Ziggy is fine with well-paid internships and graduate programmes.
+compensation:
+  note: Flag salary if posted. Flag unpaid roles. Do not drop for missing salary.
+
+# Companies to never show (add as needed)
+blocklist: []
