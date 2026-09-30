@@ -20,8 +20,7 @@ scope arguments, unpublished findings) into a CV or cover letter. Public-safe wo
   write "2024 - 2027" and state "enrolled through 2027" so he is eligible for the agreement.
 - Thesis: Geopolitics and political economy of the Red Sea, mixed methods; trade, shipping rerouting, insurance and
   freight-cost transmission; Somali piracy (2008-2012) vs Houthi crisis (2023-2025).
-- BA Political Science dual degree, Sciences Po Paris (17.2/20) + AUB (3.7/4.0), 2021-2024.
-  [ASK: one older CV says "BA Literature and Political Science". Which is right? Default: Political Science.]
+- BA Political Science dual degree, Sciences Po Paris (17.2/20) + AUB (3.7/4.0), 2021-2024. Political Science only (confirmed; never write "Literature and Political Science").
 - Employer for the Riyadh role is always "Saudi Entertainment & Amusement Expo (SEA Expo)". Never use another employer name.
 - Idiomes Manhattan and British Time: include ONLY for language-teaching roles. Ziggy does not want teaching roles at present,
   so leave both off every non-teaching CV. (British Time: he was both English Teacher and Education Coordinator; use whichever title fits the target role.)
@@ -44,21 +43,28 @@ Facts confirmed from the project files (public-safe level):
 - Review loop: worked through local-team review results and comment trackers, correcting scores against evidence (e.g. checking ratings for Aden districts against field findings).
 - Deliverables he contributed to: Draft reports (Drafts 1-4), methodology annex, assumptions and limitations register, digital annex, risk maps.
 Used in CVs so far: "designed indicator and scoring methodologies", "converted field data, interviews and secondary sources into a structured quantitative assessment across dozens of districts and sectors".
-[ASK: which exact pieces are yours (which sectors' indicators, which sheets, which sections of the report)? How many indicators in total? Which tools: Excel only, or also Stata/R/Python for the cleaning? Did you join any field or local-team calls?]
+- Tools (confirmed by Ziggy): Stata and R for the data cleaning and processing, plus Excel for the scoring and risk workbooks.
+- Draft 3 of the report is a ~300-page technical report (about 120,000 words): climate hazard profile, exposure, vulnerability, risk, adaptation options, with a two-scenario risk matrix. (Seen in the attached draft.)
+- Phase 1 "hotspot longlist" workbook (attached): ranks 26 districts against three criteria (sectoral risk share, hazard exposure, population/infrastructure significance), live-linked formulas (about 460 across three criteria sheets), raw risk and district-info sheets feeding it. This is a prioritisation tool, useful as a "built a formula-driven prioritisation model" example. [ASK: did you build this workbook or contribute?]
+[ASK: which exact pieces are yours (which sectors' indicators, which report sections)? Roughly how many indicators in total? Did you join any field or local-team calls?]
 
 ### B. UfM: 2030GreenerMed monitoring and the 100MPA / Mediterranean NAP-NDC-MPA analysis
 - Monitoring tool for Interreg NEXT MED projects starting in 2024 (file name starts with "HM"): indicator-by-indicator workbook with thematic axes
   (green and circular economy, pollution prevention, natural resources), impact and outcome indicators, baselines and targets, formula-driven totals.
 - Mediterranean NAP analysis (v7 to v10 of the analysis workbook), a comparative review of National Adaptation Plans, NDCs and MPA policy across 20+ Mediterranean countries,
   built from a source-document library per country plus country notes, with a slide deck on MPAs in NDCs/NAPs/national adaptation strategies.
-- Other UfM work in the folder: COP31 side-event suggestions; TSCC (Mediterranean coordination) questionnaire analysis and work-plan input. [ASK: which of these did you do?]
-[ASK: what did the monitoring tool have to do (who used it, how many projects, how many indicators)? How many countries exactly in the NAP analysis, and who used the result?]
+- COP31 side-event suggestions (Ziggy did this) and TSCC (Mediterranean coordination on the biodiversity framework) questionnaire analysis and joint work-plan input (Ziggy did this).
+- Also currently working on MedBESP and the Blue Economy platform work, and on GreenerMed / Interreg NEXT MED monitoring and evaluation of their projects (Ziggy's words).
+[ASK: what does the monitoring tool track (how many projects, how many indicators, who uses it)? How many countries exactly in the NAP analysis, and who used the result? What is MedBESP and what is your part?]
 
 ### C. Tender screening and commercial pipeline (weekly go/no-go)
 - Appraise tenders from EU, UN agencies, development banks against technical, financial and eligibility criteria; 10-12 qualified opportunities per week; lead the weekly commercial meeting.
-- AI-assisted screening workflow cut analysis time by about 30%.
-- Formatting and screening skills exist for this workflow; acquisition folder holds proposals, EOIs, CV/bio libraries and commercial-meeting files.
-[ASK: how was 30% measured (before/after minutes per tender?). How many tenders screened per week? Any tender that became a submitted bid?]
+- Automated the screening with an AI agent that searches deeply across many tools and produces a short list updated every week. Manual input is still needed for review and decisions.
+- Result: about 30% less analysis time, because less time goes to reading and hunting for tenders. Ziggy's own explanation: the team now works from a weekly shortlist.
+- Effect on volume: before, the team was at about 1 proposal submission per week. Now it screens 10-12 opportunities per week, has capacity to submit up to 10 a week, and usually submits about 5. The extra time is freed on Thursdays for writing new proposals.
+  (Careful: state "usually submits about 5, capacity for up to 10". Do not claim 10 submissions a week. The 30% is Ziggy's team estimate, not a stopwatch study; say "roughly 30%".)
+- Acquisition folder holds proposals, EOIs, CV/bio libraries and commercial-meeting files.
+[ASK: was the "1 a week" figure the team's typical pace before? Any submitted tender you screened that was won or shortlisted?]
 
 ### D. Other GlobalCAD work seen in project files
 - Sokoto State (Nigeria) health infrastructure climate-risk project with GCA: inception report, network-level and disruption analysis, asset-level climate risk assessment, adaptation options report, workplan.
@@ -112,7 +118,7 @@ Department of Arab Affairs and National Security.
 ## Skills (honest levels, as stated by Ziggy)
 - Excel and Power BI: guide-level detail is in the reference section below; Ziggy to confirm which specific items he has actually done.
 - Python and SQL: used in jobs, learned through self-study and practice. [ASK: one concrete task for each, e.g. a query or script you ran at GlobalCAD, so it can be defended in an interview.]
-- Stata, R, SPSS: used in study and at GlobalCAD/Ministry work (Stata confirmed at Ministry; Stata and R on Yemen indicator processing per past CVs).
+- Stata and R: confirmed for the Yemen CRVA data cleaning and indicator processing at GlobalCAD. Stata also used at the Lebanese Ministry (diaspora data). SPSS from study.
 - Generative AI, agentic workflows, automation (Playwright, APIs). [ASK: what you actually built]
 - Interests: running, chess, padel, cooking.
 
