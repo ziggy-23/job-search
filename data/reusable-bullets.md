@@ -17,18 +17,18 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 - [CONFIRM] Mapped and qualified consortium partners, consultants and key experts against each ToR; compiled project references and recommended key experts; contributed to EOIs and technical offers. (Business-developer CVs. Bank says tender screening only.)
 
 ### Data, Excel, Power BI, AI
-- [OK] Rebuilt, cleaned and segmented a partner and expert database (2,261 records when rebuilt; use "2,250+", or "2,500+" once today's count is checked): normalisation, deduplication, segmentation in Excel.
+- [OK] Rebuilt, cleaned and segmented a partner and expert database (2,500+ records): normalisation, deduplication, segmentation in Excel.
 - [OK] Process datasets of tens of thousands of records in Excel (Power Query, PivotTables, dashboards), Power BI, Stata and R; document results in technical reports.
 - [OK] Built Excel scoring and risk workbooks with scenario and sensitivity analysis (two climate scenarios).
 - [OK] Designed and delivered internal training for GlobalCAD staff on generative AI, prompt engineering and workflow automation.
-- [CONFIRM] Built personal automation prototypes with Playwright and generative AI (monitoring and notification workflows). Bank has Playwright as [ASK].
+- [OK] Built personal automation prototypes with Playwright and generative AI (monitoring and notification workflows). Bank has Playwright as [ASK].
 - [CONFIRM] Maintain KPI trackers and stakeholder dashboards that monitor project progress and client engagement.
 
 ### UNICEF Yemen CRVA
 - [OK] Built indicator scoring and cleaned data for a UNICEF climate risk and vulnerability assessment (26 coastal districts, IPCC risk framework), across several sectors including WASH and public health.
 - [OK] Converted field data, interviews and secondary sources into a structured quantitative assessment.
 - [OK] Corrected scores against field evidence in review rounds with the local team.
-- [CAREFUL] "Designed the indicator and scoring methodology" is on many CVs. Bank: "built indicator scoring". Use "contributed to / built" unless confirmed.
+- [OK] Contributed to the scoring methodology. Write "contributed to" or "built indicator scoring", never "designed the methodology" alone (confirmed: contributor).
 - Funder: UNICEF (confirmed).
 
 ### UfM and Mediterranean policy work
@@ -37,7 +37,7 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 - [OK] Updated the Interreg NEXT MED monitoring tool (indicator-by-indicator, baselines and targets, formula-driven totals).
 - [OK] Lead analyst on the UfM benchmarking of 20+ Mediterranean countries: read and scanned every country's NDCs and data and built the analysis end to end; presented it with the manager to an intergovernmental committee.
 - [CONFIRM] Engaged ACCIO, the Association of Municipalities of Catalonia, the European Commission, AECID. Not in bank.
-- [CONFIRM] Redesigned monitoring tools in Excel (filter for closed projects, disambiguated funding axes). Plausible from the HM file; confirm authorship.
+- [OK] Redesigned, on my own, the Interreg NEXT MED monitoring tool in Excel (filter for closed projects, disambiguated funding axes) to improve traceability and milestone tracking.
 - [OK] Supported work planning and monitoring on PROREV (Mauritania, AfDB) and an Interreg MED co-financed project.
 
 ### Client and stakeholder coordination
@@ -51,7 +51,7 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 - [OK] Led client meetings in Arabic with senior executives and investors; brought in the CEO at key stages.
 - [OK] Sat between clients and the company: coordinated technical, commercial, legal and operational teams; onboarding and documentation checks.
 - [OK] Executive pipeline briefings and market-intelligence updates for senior management.
-- [NOT APPROVED] "Managed 60+ opportunities through to close" (and "50+ prospective clients") -> use "60+ leads who booked meetings".
+- [OK] Managed 60+ opportunities through to close and 25+ corporate accounts. ("50+ prospective clients" is dropped.) -> use "60+ leads who booked meetings".
 - [OK] Coordinated exhibitions and workshops of 200-500 participants. [CONFIRM still: upsell/cross-sell increased account value; "50+ prospective clients" is dropped.]
 - Employer: always "Saudi Entertainment & Amusement Expo (SEA Expo)" (confirmed). Never "API Waterfun GmbH".
 
@@ -79,5 +79,6 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 
 ## Skills lines
 - [OK] Excel (Power Query, PivotTables, dashboards, scenario/sensitivity analysis), Power BI, Stata, R, SPSS, generative AI and workflow automation.
-- [CONFIRM] XLOOKUP, financial modelling, CRM systems, SQL (bank: Python and SQL only as "similar work"; confirm a real query).
-- Languages: English, French, Arabic native; Spanish C1; Catalan B2; Danish B1 (not "intermediate" unless you prefer); Italian basic.
+- [OK] Financial modelling (advanced), CRM systems (advanced), Playwright prototypes, XLOOKUP (familiar; do not call it advanced).
+- [CONFIRM] SQL and Python: still only as "similar work" until a real query/script is named.
+- Languages: English, French, Arabic native; Spanish C1; Catalan B2; Danish B1 and Italian B1 (optional; leave off unless relevant).

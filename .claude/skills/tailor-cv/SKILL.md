@@ -10,7 +10,7 @@ The job of this skill is choosing the right ones, in the posting's language, wit
 
 ## Inputs
 - The job posting (URL or pasted text). Fetch it if only a URL is given.
-- `data/experience-bank.md` (the master list of everything he has done). If it is thin, ask Ziggy targeted
+- `data/experience-bank.md` (the master list of everything he has done) and `data/reusable-bullets.md` (wording from his submitted CVs; use [OK] bullets first, never [CONFIRM] ones). Default phone is +34 614 7117 32. If it is thin, ask Ziggy targeted
   questions to fill it before tailoring, one role at a time.
 
 ## Steps

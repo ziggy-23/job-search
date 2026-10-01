@@ -1,5 +1,6 @@
 > UPDATE 2026-10-01: Ziggy answered most of these. Resolved: SEA Expo employer name, Yemen funder (UNICEF), UfM lead analyst and committee presentation, Lebanese MFA projects, League of Arab States interviews/speeches, SEA Expo 200-500 participant events, database size rule. Details are in the "Confirmed by Ziggy" section of experience-bank.md.
-> Still open: tools (XLOOKUP, financial modelling, CRM, Playwright), default MA dates, default phone number, whether "managed 60+ opportunities through to close" is wanted (default: no), Danish/Italian levels, GlobalCAD start month.
+> Second round resolved: database 2,500+, "60+ opportunities through to close" approved, tools claimed, phone +34 614 7117 32, MA 2024-2026 (2027 only for trilateral Spanish internships), Danish/Italian B1, UNICEF scoring = contributor, Interreg redesign = solo.
+> Still open: SQL/Python real example, GlobalCAD start month (bank says Mar 2026), SEA Expo upsell claim, aviation/passenger-rights research and translation at the MFA.
 
 # Claims on submitted CVs that are NOT in experience-bank.md, or that conflict with it
 
