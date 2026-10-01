@@ -165,3 +165,10 @@ Ziggy confirms these tasks are similar to work he has done, so they can be used 
 - Tools claimed: financial modelling (advanced), CRM systems (advanced), Playwright prototypes (has experience), XLOOKUP (has used it, less often; very familiar). Interview rule: have one concrete example ready for each (what model, which CRM, what prototype). Do not write "advanced XLOOKUP".
 - UNICEF Yemen scoring methodology: Ziggy CONTRIBUTED. Write "contributed to" or "built indicator scoring", never "designed the methodology" alone.
 - Interreg NEXT MED monitoring tool redesign: done entirely by Ziggy alone.
+
+## Third round, Ziggy 2026-10-01
+- GlobalCAD start month: March 2026 (settled).
+- SEA Expo: cross-sell AND upsell are both true; usable.
+- Lebanese MFA: aviation research and translation (French/Arabic/English) were also among his tasks. Optional; include only when useful for the role.
+- SQL and Python: self-rated about 7-8/10 each ("good", easy to learn). Write "SQL, Python (intermediate to advanced)". Have one real query/script ready for interviews.
+- Strengths he calls expert level: automation, slide-making and design, Excel ("like a pro").

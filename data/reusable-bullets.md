@@ -63,7 +63,7 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 ## Ministry of Foreign Affairs, Lebanon, International Affairs Associate (Beirut, Jan - Jun 2024, on site, part time)
 - [OK] Co-developed a diaspora engagement strategy with the Head of the Emigrants Department; analysed diaspora data in Stata (merges, OLS regression, summary statistics).
 - [OK] Policy notes, background papers and memos on treaties and bilateral/multilateral cooperation; confidential correspondence with UN, EU and foreign-government counterparts.
-- [OK] Worked on a comparative healthcare-systems study with foreign governments and a post-COVID vaccination monitoring project (cross-country data exchange); supported a training programme with the French Ministry of Defence; reports on increasing diaspora participation; met multiple international organisations to facilitate transgovernmental and international-organisation work. (Aviation/passenger-rights research and translation still unconfirmed.)
+- [OK] Worked on a comparative healthcare-systems study with foreign governments and a post-COVID vaccination monitoring project (cross-country data exchange); supported a training programme with the French Ministry of Defence; reports on increasing diaspora participation; met multiple international organisations to facilitate transgovernmental and international-organisation work. (Aviation/passenger-rights research and FR/AR/EN translation are also confirmed; optional, include only when useful.)
 
 ## Education and research
 - [OK] MA International Relations (IPE pathway), IBEI, 2024-2026, average 8.8/10. Thesis: geopolitics and political economy of the Red Sea, mixed methods; trade, shipping rerouting, insurance and freight-cost transmission; Somali piracy (2008-2012) vs the Houthi crisis (2023-2025).
@@ -80,5 +80,5 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 ## Skills lines
 - [OK] Excel (Power Query, PivotTables, dashboards, scenario/sensitivity analysis), Power BI, Stata, R, SPSS, generative AI and workflow automation.
 - [OK] Financial modelling (advanced), CRM systems (advanced), Playwright prototypes, XLOOKUP (familiar; do not call it advanced).
-- [CONFIRM] SQL and Python: still only as "similar work" until a real query/script is named.
+- [OK] SQL and Python at about 7-8/10 (intermediate to advanced). Also expert-level: automation, slide design, Excel. Have a real query/script ready for interviews.
 - Languages: English, French, Arabic native; Spanish C1; Catalan B2; Danish B1 and Italian B1 (optional; leave off unless relevant).
