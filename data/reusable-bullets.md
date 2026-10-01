@@ -17,7 +17,7 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 - [CONFIRM] Mapped and qualified consortium partners, consultants and key experts against each ToR; compiled project references and recommended key experts; contributed to EOIs and technical offers. (Business-developer CVs. Bank says tender screening only.)
 
 ### Data, Excel, Power BI, AI
-- [OK] Rebuilt, cleaned and segmented a partner and expert database of 2,261 records (2,250+ on a CV): normalisation, deduplication, segmentation in Excel.
+- [OK] Rebuilt, cleaned and segmented a partner and expert database (2,261 records when rebuilt; use "2,250+", or "2,500+" once today's count is checked): normalisation, deduplication, segmentation in Excel.
 - [OK] Process datasets of tens of thousands of records in Excel (Power Query, PivotTables, dashboards), Power BI, Stata and R; document results in technical reports.
 - [OK] Built Excel scoring and risk workbooks with scenario and sensitivity analysis (two climate scenarios).
 - [OK] Designed and delivered internal training for GlobalCAD staff on generative AI, prompt engineering and workflow automation.
@@ -29,13 +29,13 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 - [OK] Converted field data, interviews and secondary sources into a structured quantitative assessment.
 - [OK] Corrected scores against field evidence in review rounds with the local team.
 - [CAREFUL] "Designed the indicator and scoring methodology" is on many CVs. Bank: "built indicator scoring". Use "contributed to / built" unless confirmed.
-- [CONFIRM] Funder shown as UNDP on one CV. Use UNICEF.
+- Funder: UNICEF (confirmed).
 
 ### UfM and Mediterranean policy work
 - [OK] Comparative analysis of National Adaptation Plans, NDCs and MPA policy across 20+ Mediterranean countries for the Union for the Mediterranean (workbook, country notes, slide deck).
 - [OK] Contributed COP31 side-event suggestions and TSCC questionnaire analysis and work-plan input.
 - [OK] Updated the Interreg NEXT MED monitoring tool (indicator-by-indicator, baselines and targets, formula-driven totals).
-- [CONFIRM] "Lead analyst" on the benchmarking programme; "presented results to intergovernmental committees".
+- [OK] Lead analyst on the UfM benchmarking of 20+ Mediterranean countries: read and scanned every country's NDCs and data and built the analysis end to end; presented it with the manager to an intergovernmental committee.
 - [CONFIRM] Engaged ACCIO, the Association of Municipalities of Catalonia, the European Commission, AECID. Not in bank.
 - [CONFIRM] Redesigned monitoring tools in Excel (filter for closed projects, disambiguated funding axes). Plausible from the HM file; confirm authorship.
 - [OK] Supported work planning and monitoring on PROREV (Mauritania, AfDB) and an Interreg MED co-financed project.
@@ -51,19 +51,19 @@ Language: EN unless marked ES. Tailor-cv should pick from here, then rewrite to 
 - [OK] Led client meetings in Arabic with senior executives and investors; brought in the CEO at key stages.
 - [OK] Sat between clients and the company: coordinated technical, commercial, legal and operational teams; onboarding and documentation checks.
 - [OK] Executive pipeline briefings and market-intelligence updates for senior management.
-- [CAREFUL] "Managed 60+ opportunities through to close" -> use "60+ leads who booked meetings".
-- [CONFIRM] "50+ prospective clients" (Gartner CV); events of 200-500 participants; upsell/cross-sell that increased account value.
-- [CONFIRM] Employer shown as "API Waterfun GmbH" on one CV. Bank rule: SEA Expo name.
+- [NOT APPROVED] "Managed 60+ opportunities through to close" (and "50+ prospective clients") -> use "60+ leads who booked meetings".
+- [OK] Coordinated exhibitions and workshops of 200-500 participants. [CONFIRM still: upsell/cross-sell increased account value; "50+ prospective clients" is dropped.]
+- Employer: always "Saudi Entertainment & Amusement Expo (SEA Expo)" (confirmed). Never "API Waterfun GmbH".
 
 ## League of Arab States, Policy & Strategic Insights Intern (Cairo, Jul - Aug 2024)
 - [OK] Analytical memos for senior leadership (Department of Arab Affairs and National Security) on the Sudanese civil war and the GERD dispute, from institutional, legal and academic sources.
 - [OK] Economic-intelligence and news watch on trade, transport, integration, Red Sea and Suez.
-- [CONFIRM] 25+ stakeholder interviews; supported consultations with Lebanese, Libyan and Syrian missions; organised Secretariat conferences; minutes for intergovernmental meetings; Cooperation Council on Sudan.
+- [OK] Ran 25+ stakeholder interviews; helped organise Secretariat conferences; extracted news and wrote reports and briefings for the supervisor; wrote speeches for the department manager. (Consultations with named missions and minutes for intergovernmental meetings still unconfirmed.)
 
 ## Ministry of Foreign Affairs, Lebanon, International Affairs Associate (Beirut, Jan - Jun 2024, on site, part time)
 - [OK] Co-developed a diaspora engagement strategy with the Head of the Emigrants Department; analysed diaspora data in Stata (merges, OLS regression, summary statistics).
 - [OK] Policy notes, background papers and memos on treaties and bilateral/multilateral cooperation; confidential correspondence with UN, EU and foreign-government counterparts.
-- [CONFIRM] Comparative healthcare-systems study with foreign governments; post-COVID vaccination monitoring (Sputnik V, AstraZeneca, Pfizer data exchange); training programme with the French Ministry of Defence; aviation and passenger-rights research; translation across French, Arabic and English.
+- [OK] Worked on a comparative healthcare-systems study with foreign governments and a post-COVID vaccination monitoring project (cross-country data exchange); supported a training programme with the French Ministry of Defence; reports on increasing diaspora participation; met multiple international organisations to facilitate transgovernmental and international-organisation work. (Aviation/passenger-rights research and translation still unconfirmed.)
 
 ## Education and research
 - [OK] MA International Relations (IPE pathway), IBEI, 2024-2026, average 8.8/10. Thesis: geopolitics and political economy of the Red Sea, mixed methods; trade, shipping rerouting, insurance and freight-cost transmission; Somali piracy (2008-2012) vs the Houthi crisis (2023-2025).

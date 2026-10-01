@@ -146,3 +146,14 @@ Ziggy confirms these tasks are similar to work he has done, so they can be used 
 - A conflict or disagreement
 - Something learned very fast
 - A time you led without authority
+
+## Confirmed by Ziggy on 2026-10-01 (answers to the CV-claims check)
+- SEA Expo: employer is always "Saudi Entertainment & Amusement Expo (SEA Expo)". Never "API Waterfun GmbH".
+- Yemen CRVA funder: UNICEF (not UNDP).
+- Partner and expert database: exact figure was 2,261 when rebuilt; it has grown since. Ziggy's preference: "2,500+" on CVs. Rule: use "2,250+" unless the current record count is checked and is 2,500 or more, then "2,500+" is fine. Use exact numbers in interviews. [CHECK: open the database and read today's count.]
+- UfM benchmarking (20+ Mediterranean countries): Ziggy was the lead analyst and did the work end to end: read and scanned every country's NDCs and data, built the database and analysis. He presented it with his manager to an intergovernmental committee.
+- Lebanese MFA (Jan-Jun 2024): confirmed the comparative healthcare-systems study, the post-COVID vaccination monitoring project and the French Ministry of Defence training programme. Also: the diaspora programme was being implemented, he worked on reports on increasing diaspora participation, and met multiple international organisations to facilitate transgovernmental and international-organisation work.
+- League of Arab States (Cairo, Jul-Aug 2024): confirmed 25+ stakeholder interviews and help organising conferences. Also: extracted news, wrote reports and briefings for his boss, and wrote speeches for the manager of the department.
+- SEA Expo: confirmed he coordinated exhibitions and workshops of 200-500 participants.
+- SEA Expo numbers: use "60+ leads who booked meetings" and "25+ accounts managed". The "managed 60+ opportunities through to close" wording is NOT approved (Ziggy's reply to that question was unclear; default is not to use it).
+- STILL OPEN: tools (XLOOKUP, financial modelling, CRM, Playwright prototypes); default MA dates (2024-2026 unless a Spanish internship agreement needs 2027); default phone number.

@@ -1,3 +1,6 @@
+> UPDATE 2026-10-01: Ziggy answered most of these. Resolved: SEA Expo employer name, Yemen funder (UNICEF), UfM lead analyst and committee presentation, Lebanese MFA projects, League of Arab States interviews/speeches, SEA Expo 200-500 participant events, database size rule. Details are in the "Confirmed by Ziggy" section of experience-bank.md.
+> Still open: tools (XLOOKUP, financial modelling, CRM, Playwright), default MA dates, default phone number, whether "managed 60+ opportunities through to close" is wanted (default: no), Danish/Italian levels, GlobalCAD start month.
+
 # Claims on submitted CVs that are NOT in experience-bank.md, or that conflict with it
 
 Found while reading ~14 submitted CVs and cover letters from the Drive folder (2026-10-01). Many of those CVs were drafted with AI help, so
