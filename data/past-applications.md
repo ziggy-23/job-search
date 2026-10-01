@@ -22,7 +22,7 @@ Drive root: https://drive.google.com/drive/folders/1lth3VyQJ9fExOF_WG9DBh_Tq1jgJ
 | 2026-09-10 | Simon-Kucher Associate Consultant BCN | CV, motivation letter, application report, interview prep (4 files). Status in tracker: rejected after interview | rejected |
 | 2026-09-10 | A Piece of Pie; Consultor Negocio Internacional; FunTime English School | CV, letter | |
 | 2026-09-04 | Lazard Sovereign Advisory | CV, cover letter, report | |
-| 2026-09-02 | Veeva Consultant Development Program (ALREADY APPLIED) | Resume docx, cover letter docx | |
+| 2026-09-02 | Veeva Consultant Development Program (draft only; NOT SENT per Ziggy) | Resume docx, cover letter docx | |
 | 2026-09-02 | Alpadia Language Schools; Mishmash | CV | |
 | 2026-09-02 | UPF DEE Part-time Teaching | CV | |
 | 2026-08-19 | Global Factor Business Developer | CV pdf+docx | |

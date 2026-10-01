@@ -10,7 +10,7 @@ Confidentiality: this repo is private, but never put client-confidential details
 scope arguments, unpublished findings) into a CV or cover letter. Public-safe wording only.
 
 ## Canonical facts and CV-variant rules (settled by Ziggy)
-- Name: Houssam "Ziggy" Mehfara. Barcelona.
+- Name on every CV and letter: Houssam Mehfara. NEVER include "Ziggy" (Ziggy is a nickname; confirmed 2026-10-01). Barcelona.
 - Languages: English, French, Arabic native; Spanish C1; Catalan B2; Danish B1; Italian basic.
 - GlobalCAD Junior Consultant: start March 2026 (use "Mar 2026 - Present"). Internship contract ends Nov 2026.
 - Partner and expert database: 2,500+ records (confirmed by Ziggy 2026-10-01; it was 2,261 when rebuilt and has grown). Use "2,500+" on CVs.
