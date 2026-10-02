@@ -10,14 +10,15 @@ Confidentiality: this repo is private, but never put client-confidential details
 scope arguments, unpublished findings) into a CV or cover letter. Public-safe wording only.
 
 ## Canonical facts and CV-variant rules (settled by Ziggy)
-- Name: Houssam "Ziggy" Mehfara. Barcelona.
+- Name on every CV and letter: Houssam Mehfara. NEVER include "Ziggy" (Ziggy is a nickname; confirmed 2026-10-01). Barcelona.
 - Languages: English, French, Arabic native; Spanish C1; Catalan B2; Danish B1; Italian basic.
 - GlobalCAD Junior Consultant: start March 2026 (use "Mar 2026 - Present"). Internship contract ends Nov 2026.
-- Partner and expert database: 2,261 records is the accurate figure. Use "2,250+" on a CV when a rounder number reads better,
-  never a higher number. Use exact 2,261 in interviews or where precision matters.
-- MA (IBEI, IPE pathway, average 8.8/10): courses ended June 2026, so write "2024 - 2026".
-  EXCEPTION: for Spanish internship applications that need a three-way agreement (company, university, Ziggy),
-  write "2024 - 2027" and state "enrolled through 2027" so he is eligible for the agreement.
+- Partner and expert database: 2,500+ records (confirmed by Ziggy 2026-10-01; it was 2,261 when rebuilt and has grown). Use "2,500+" on CVs.
+- MA (IBEI, IPE pathway, average 8.8/10): write "2024 - 2026" on every job application.
+  EXCEPTION: Spanish internships that need a three-way (trilateral) agreement (company, university, Ziggy):
+  write "2024 - 2027" and state "enrolled through 2027". Confirmed by Ziggy 2026-10-01.
+- Phone number on every CV from now on: +34 614 7117 32. Never the +33 number.
+- Danish B1 and Italian B1 (corrected from "basic"). Optional: leave them off unless the role values languages.
 - Thesis: Geopolitics and political economy of the Red Sea, mixed methods; trade, shipping rerouting, insurance and
   freight-cost transmission; Somali piracy (2008-2012) vs Houthi crisis (2023-2025).
 - BA Political Science dual degree, Sciences Po Paris (17.2/20) + AUB (3.7/4.0), 2021-2024. Political Science only (confirmed; never write "Literature and Political Science").
@@ -146,3 +147,28 @@ Ziggy confirms these tasks are similar to work he has done, so they can be used 
 - A conflict or disagreement
 - Something learned very fast
 - A time you led without authority
+
+## Confirmed by Ziggy on 2026-10-01 (answers to the CV-claims check)
+- SEA Expo: employer is always "Saudi Entertainment & Amusement Expo (SEA Expo)". Never "API Waterfun GmbH".
+- Yemen CRVA funder: UNICEF (not UNDP).
+- Partner and expert database: exact figure was 2,261 when rebuilt; it has grown since. Ziggy's preference: "2,500+" on CVs. Rule: use "2,250+" unless the current record count is checked and is 2,500 or more, then "2,500+" is fine. Use exact numbers in interviews. [CHECK: open the database and read today's count.]
+- UfM benchmarking (20+ Mediterranean countries): Ziggy was the lead analyst and did the work end to end: read and scanned every country's NDCs and data, built the database and analysis. He presented it with his manager to an intergovernmental committee.
+- Lebanese MFA (Jan-Jun 2024): confirmed the comparative healthcare-systems study, the post-COVID vaccination monitoring project and the French Ministry of Defence training programme. Also: the diaspora programme was being implemented, he worked on reports on increasing diaspora participation, and met multiple international organisations to facilitate transgovernmental and international-organisation work.
+- League of Arab States (Cairo, Jul-Aug 2024): confirmed 25+ stakeholder interviews and help organising conferences. Also: extracted news, wrote reports and briefings for his boss, and wrote speeches for the manager of the department.
+- SEA Expo: confirmed he coordinated exhibitions and workshops of 200-500 participants.
+- SEA Expo numbers: use "60+ leads who booked meetings" and "25+ accounts managed". The "managed 60+ opportunities through to close" wording is NOT approved (Ziggy's reply to that question was unclear; default is not to use it).
+- STILL OPEN: tools (XLOOKUP, financial modelling, CRM, Playwright prototypes); default MA dates (2024-2026 unless a Spanish internship agreement needs 2027); default phone number.
+
+## Further confirmations, Ziggy 2026-10-01 (second round)
+- Database: 2,500+ records. Use "2,500+".
+- SEA Expo: "managed 60+ opportunities through to close" and "25+ accounts managed" are approved wording. Prepare a one-line answer for interviews on what "through to close" meant (how many signed).
+- Tools claimed: financial modelling (advanced), CRM systems (advanced), Playwright prototypes (has experience), XLOOKUP (has used it, less often; very familiar). Interview rule: have one concrete example ready for each (what model, which CRM, what prototype). Do not write "advanced XLOOKUP".
+- UNICEF Yemen scoring methodology: Ziggy CONTRIBUTED. Write "contributed to" or "built indicator scoring", never "designed the methodology" alone.
+- Interreg NEXT MED monitoring tool redesign: done entirely by Ziggy alone.
+
+## Third round, Ziggy 2026-10-01
+- GlobalCAD start month: March 2026 (settled).
+- SEA Expo: cross-sell AND upsell are both true; usable.
+- Lebanese MFA: aviation research and translation (French/Arabic/English) were also among his tasks. Optional; include only when useful for the role.
+- SQL and Python: self-rated about 7-8/10 each ("good", easy to learn). Write "SQL, Python (intermediate to advanced)". Have one real query/script ready for interviews.
+- Strengths he calls expert level: automation, slide-making and design, Excel ("like a pro").
